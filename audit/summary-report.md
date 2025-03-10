@@ -59,35 +59,6 @@ Below are the highest-priority recovery targets based on funding amount and evid
    - Recovery Potential: [Assessment]
    - Notes: [Brief details]
 
-## Recovery Progress Metrics
-
-![Recovery Progress Chart - PLACEHOLDER]
-
-| Recovery Phase | Number of Cases | ETH Target | ETH Recovered | Success Rate |
-|----------------|-----------------|------------|---------------|--------------|
-| Notice Issued | [Number] | [Amount] | [Amount] | [Percentage]% |
-| Negotiation | [Number] | [Amount] | [Amount] | [Percentage]% |
-| Legal Action | [Number] | [Amount] | [Amount] | [Percentage]% |
-| Settled | [Number] | [Amount] | [Amount] | [Percentage]% |
-| Declined | [Number] | [Amount] | [Amount] | [Percentage]% |
-
-## Patterns and Insights
-
-Our audit has revealed several patterns that may help improve proposal governance:
-
-1. **[Insight about common proposal failures]**
-2. **[Insight about successful proposal characteristics]**
-3. **[Insight about funding amounts and completion rates]**
-4. **[Other relevant patterns]**
-
-## Next Steps
-
-1. **Continuing Recovery Efforts**: [Brief description of priority actions]
-2. **Governance Recommendations**: [Brief description of proposed improvements]
-3. **Ongoing Monitoring**: [Brief description of continued audit plans]
-
----
-
 *This summary report is part of the Nouns DAO Treasury Recovery Initiative. The complete audit methodology and detailed findings for each proposal are available in this repository.*
 
 *For questions or additional information, please contact Bixbite.*
